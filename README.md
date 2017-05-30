@@ -1,4 +1,4 @@
 # reposit-deployer
 Deployment tooling for reposit skill
 
-(./lambci.cf) contains a stack taken from https://github.com/lambci/lambci
+[lambci.cf](./lambci.cf) contains a stack taken from https://github.com/lambci/lambci
